@@ -1,5 +1,4 @@
 {
-  "mediaFileName":"20220506180709_902-1_902-4785_preview",
   "textWithTimes": [
     {"fromSecond":0,"toSecond":6,"period":"00:00:00 - 00:00:06","text":"I have no illusions that the road ahead of me will be easy either for the short term or the long haul.","textSentiment":"positive","sentimentConfidenceScores":{"neutral":0.09,"positive":0.84,"negative":0.08}},
     {"fromSecond":7,"toSecond":11,"period":"00:00:07 - 00:00:11","text":"I never imagined that I would find myself in this position.","textSentiment":"negative","sentimentConfidenceScores":{"neutral":0.36,"positive":0.01,"negative":0.63}},
@@ -13,7 +12,5 @@
   ],
   "overallSentiment":"positive",
   "positiveSentimentPercent":63.0,
-  "neutralSentimentPercent":23.0,
-  "negativeSentimentPercent":13.88888888888889,
   "isFinished":false
 }
