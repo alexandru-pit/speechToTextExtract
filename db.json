@@ -6,6 +6,5 @@
     {"fromSecond":20,"toSecond":30,"period":"00:00:20 - 00:00:30","text":"Members of the United States Senate. I look forward to working with you during the confirmation process and I will do my very best to demonstrate that I am worthy of your support.","textSentiment":"positive","sentimentConfidenceScores":{"neutral":0.04,"positive":0.95,"negative":0.01}}
   ],
   "overallSentiment":"positive",
-  "positiveSentimentPercent":63.0,
   "isFinished":false
 }
