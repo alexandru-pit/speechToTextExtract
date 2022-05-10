@@ -3,7 +3,7 @@
     {"fromSecond":0,"toSecond":6,"period":"00:00:00 - 00:00:06","text":"I have no illusions that the road ahead of me will be easy either for the short term or the long haul.","textSentiment":"positive","sentimentConfidenceScores":{"neutral":0.09,"positive":0.84,"negative":0.08}},
     {"fromSecond":7,"toSecond":11,"period":"00:00:07 - 00:00:11","text":"I never imagined that I would find myself in this position.","textSentiment":"negative","sentimentConfidenceScores":{"neutral":0.36,"positive":0.01,"negative":0.63}},
     {"fromSecond":12,"toSecond":18,"period":"00:00:12 - 00:00:18","text":"But now that I am, I assure you that I will meet the challenge with both humility and courage.","textSentiment":"negative","sentimentConfidenceScores":{"neutral":0.29,"positive":0.28,"negative":0.43}},
-    {"fromSecond":20,"toSecond":30,"period":"00:00:20 - 00:00:30","text":"Members of the United States Senate. I look forward to working with you during the confirmation process and I will do my very best to demonstrate that I am worthy of your support.","textSentiment":"positive","sentimentConfidenceScores":{"neutral":0.04,"positive":0.95,"negative":0.01}},
+    {"fromSecond":20,"toSecond":30,"period":"00:00:20 - 00:00:30","text":"Members of the United States Senate. I look forward to working with you during the confirmation process and I will do my very best to demonstrate that I am worthy of your support.","textSentiment":"positive","sentimentConfidenceScores":{"neutral":0.04,"positive":0.95,"negative":0.01}}
   ],
   "overallSentiment":"positive",
   "positiveSentimentPercent":63.0,
